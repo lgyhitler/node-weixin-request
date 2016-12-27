@@ -1,6 +1,6 @@
 {
   "name": "node-weixin-request",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "",
   "homepage": "",
   "author": {
@@ -35,7 +35,6 @@
   },
   "repository": "node-weixin/node-weixin-request",
   "scripts": {
-    "prepublish": "gulp prepublish",
     "test": "gulp"
   },
   "license": "Apache-2.0",
